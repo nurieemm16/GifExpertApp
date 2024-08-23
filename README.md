@@ -1,19 +1,4 @@
-<!--
-*** Thanks for checking out the GIF EXPERT APP. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+<a name="readme-top"></a>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -21,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/nurieemm16/GifExpertApp.git">
-    <img src="public/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/logo.png" alt="Logo" width="110" height="40">
   </a>
 
   <h3 align="center">Gif Expert App</h3>
@@ -54,8 +39,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
+   <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -94,7 +78,7 @@ Benefits:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/nurieemm16/GifExpertApp.git
    ```
 2. Install NPM packages
    ```sh
@@ -102,18 +86,10 @@ Benefits:
    ```
 3. Run the project
    ```sh
-   npm start
+   npm run dev
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [x] Fix gif bug
-- [ ] Add deployed API
-- [ ] Deploy
 
 See the [open issues](https://github.com/nurieemm16/GifExpertApp/issues) for a full list of proposed features (and known issues).
 

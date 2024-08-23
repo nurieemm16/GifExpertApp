@@ -17,7 +17,6 @@ export const AddCategory = ({onNewCategory}) => {
     const onSubmit = (event) =>{
         event.preventDefault();//event.preventDefault(): Previene el comportamiento por defecto del formulario, que es recargar la página al enviar.
         if (inputValue.trim().length <=1 ) return; //Esto sirve para que se introduzca más de un carácter en el buscador de gifs
-        //setCategories( categories =>[inputValue,...categories ]);
         onNewCategory(inputValue.trim());
         setInputValue('') //Esto es para que despues de introducir algo en el buscador, se quede limpio
     } 
@@ -29,7 +28,7 @@ export const AddCategory = ({onNewCategory}) => {
     <form onSubmit={onSubmit}>
         <input
     type="text"
-    placeholder="Busca aquí tu gifs"
+    placeholder="Search here"
     value={inputValue} //Enlaza el valor del input con el estado inputValue.
     onChange={onInputChange} // Ejecuta onInputChange cada vez que el usuario escribe en el input, actualizando así el valor del estado. 
     />

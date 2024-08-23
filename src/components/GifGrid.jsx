@@ -37,6 +37,7 @@ export const GifGrid = ({category}) => { //Este componente recibe un objeto de p
 }
 
 //UseEffect es un hook que sirve para lanzar efectos secundarios. Por efectos secundarios se entiende algún proceso que nosotros queramos ejecutar cuando algo suceda. Por ejemplo cuando la category cambie, quiero disparar un efecto.  Permite realizar efectos secundarios en componentes funcionales, como la ejecución de código cuando el componente se monta, actualiza, o desmonta.
+
 /*Este componente GifGrid hace lo siguiente:
 
 Recibe una categoría (category) como prop.
