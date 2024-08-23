@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/nurieemm16/GifExpertApp.git">
-    <img src="../04-gif-expert-app/public/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Gif Expert App</h3>
@@ -64,7 +64,7 @@
 
 ## About The Project
 
-![Gif Expert App Screenshot](../04-gif-expert-app/public/screenshot.png)
+![Gif Expert App Screenshot](public/screenshot.png)
 
 Gif Expert App is the ultimate destination for finding GIFs of what you need! Whether you're a fan of pop culture, sports, memes, or cute animals, our easy-to-use platform allows you to discover and share the perfect GIF for any moment. Simply search for what you love, and browse through an extensive collection of animated GIFs that capture the essence of your favorite topics. Start exploring now and express yourself with the best GIFs on the internet!
 
@@ -123,7 +123,7 @@ See the [open issues](https://github.com/nurieemm16/GifExpertApp/issues) for a f
 
 ## Contact
 
-Núria Marzo - [Linkedin](www.linkedin.com/in/nuria-marzo)
+Núria Marzo - [Linkedin](https://www.linkedin.com/in/nuria-marzo)
 
 Project Link: [Github](https://github.com/nurieemm16/GifExpertApp.git)
 
